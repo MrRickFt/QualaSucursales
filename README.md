@@ -1,2 +1,3 @@
 # QualaSucursales
-Test fullstack Quala sucursales CRUD
+
+Fullstack Quala sucursales módulo
